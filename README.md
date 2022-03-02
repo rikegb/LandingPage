@@ -1,6 +1,6 @@
 LANDING PAGE COM HTML e CSS
 
-<a href="https://drive.google.com/file/d/103Lw0eWBuJRCsid5vkKnZxPauaPd_fib/view"><img src="https://drive.google.com/file/d/103Lw0eWBuJRCsid5vkKnZxPauaPd_fib/view"/></a>
+<a href="https://imgur.com/KfnbBh2"><img src="https://imgur.com/KfnbBh2"/></a>
 ## Figma
 
 - [Layout - Figma](https://www.figma.com/file/sWnDDCzvRrfES7Zk9qHJHG/LANDING-PAGE?node-id=2%3A2);
@@ -8,6 +8,3 @@ LANDING PAGE COM HTML e CSS
 ## Referências
 
 - [Rafaella Ballerini](https://www.youtube.com/watch?v=llF6vD-RljE);
-
-### Pré-Visualização
-- [Pré-Visualização](https://drive.google.com/file/d/103Lw0eWBuJRCsid5vkKnZxPauaPd_fib/view?usp=sharing);
