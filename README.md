@@ -8,4 +8,5 @@ LANDING PAGE COM HTML e CSS
 
 - [Rafaella Ballerini](https://www.youtube.com/watch?v=llF6vD-RljE);
 
-
+### Pré-Visualização
+- [Pré-Visualização](https://drive.google.com/file/d/103Lw0eWBuJRCsid5vkKnZxPauaPd_fib/view?usp=sharing);
